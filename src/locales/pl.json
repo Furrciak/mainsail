@@ -518,7 +518,7 @@
         "TemperaturesInChart": "Temperatura [°C]",
         "Dataset": {
           "Temperature": "aktualną temperaturę",
-          "Target": "docelową temperatura",
+          "Target": "docelową temperaturę",
           "Power": "PWM - prąd",
           "Speed": "PWM - prędkość"
         },
